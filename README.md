@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 
 
 
-<div align="center"><img src="[(https://github-readme-stats.vercel.app/api/top-langs/?username=Tdzdele&layout=compact)](https://github.com/Tdzdele/github-readme-stats)" align="center" /></div>  
-
-
+<div align="center"><img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Tdzdele&layout=compact)(https://github.com/Tdzdele/github-readme-stats)" align="center" /></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tdzdele&layout=compact)](https://github.com/Tdzdele/github-readme-stats)
