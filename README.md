@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-![](https://raw.githubusercontent.com/Tdzdele/Tdzdele/output/github-contribution-grid-snake.svg)
+<div align="center"><a href="https://github.com/Tdzdele"><img src="https://raw.githubusercontent.com/Tdzdele/Tdzdele/output/github-contribution-grid-snake.svg" align="center" /></a></div>  
 
 
 
