@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tdzdele&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><a href="https://github.com/Tdzdele"><img src="https://github-readme-stats.vercel.app/api?username=Tdzdele&show_icons=true&count_private=true&hide_border=true" align="center" /></a></div>  
 
 
 
