@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 
 
 ![Tdzdele's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tdzdele&show_icons=true&theme=tokyonight)
+
+
+
+```text
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tdzdelev&layout=compact)](https://github.com/Tdzdele/github-readme-stats)
+```
+
