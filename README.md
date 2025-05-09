@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B+Welcome"align="center" /></div>  
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=300&height=30&lines=Hi+there+%F0%9F%91%8B+Welcome" align="center" /></div>  
 
 
 
