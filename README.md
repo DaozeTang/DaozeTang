@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 
 
 
-![Tdzdele's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tdzdele&show_icons=true&theme=tokyonight
-
 ![Tdzdele's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tdzdele&show_icons=true&theme=tokyonight)
