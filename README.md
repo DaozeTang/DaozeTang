@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-<div align="center"><a href="https://github.com/Tdzdele"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tdzdele&hide_progress=true" align="center" /></a></div>  
+<div align="center"><a href="https://github.com/Tdzdele"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tdzdele&layout=compact" align="center" /></a></div>  
 
 
 
