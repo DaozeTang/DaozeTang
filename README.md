@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-![](https://profile-counter.glitch.me/Tdzdele/count.svg)
+<div align="center"><img src="https://profile-counter.glitch.me/Tdzdele/count.svg" align="center" /></div>  
 
 
 
@@ -28,7 +28,5 @@ Here are some ideas to get you started:
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tdzdele&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
-
-<div align="center"><img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Tdzdele&layout=compact)(https://github.com/Tdzdele/github-readme-stats)" align="center" /></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tdzdele&layout=compact)](https://github.com/Tdzdele/github-readme-stats)
