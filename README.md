@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 
 
-```text
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tdzdelev&layout=compact)](https://github.com/Tdzdele/github-readme-stats)
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tdzdelev&layout=compact)](https://github.com/Tdzdele/github-readme-stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tdzdelev&layout=compact)](https://github.com/Tdzdele/github-readme-stats)
