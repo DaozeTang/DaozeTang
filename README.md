@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+ 
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B+Welcome"align="center" /></div>  
+
 
 
 <div align="center"><img src="https://profile-counter.glitch.me/Tdzdele/count.svg" align="center" /></div>  
