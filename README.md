@@ -13,18 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 
 
 <div align="center"><a href="https://github.com/DaozeTang"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=300&height=50&lines=Hi+There+%F0%9F%91%8B+Welcome" align="center" /></a></div>  
-
-
-
-<div align="center"><a href="https://github.com/DaozeTang"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaozeTang&layout=compact" align="center" /></a></div>  
-
-
-
-<div align="center"><a href="https://github.com/DaozeTang"><img src="https://github-readme-stats.vercel.app/api?username=DaozeTang&show_icons=true&count_private=true&hide_border=true" align="center" /></a></div>  
-
 
 
 <div align="center"><a href="https://github.com/DaozeTang"><img src="https://raw.githubusercontent.com/DaozeTang/DaozeTang/output/github-contribution-grid-snake.svg" align="center" /></a></div>  
